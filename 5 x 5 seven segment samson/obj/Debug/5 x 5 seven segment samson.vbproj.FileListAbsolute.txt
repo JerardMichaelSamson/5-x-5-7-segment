@@ -1,0 +1,11 @@
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\bin\Debug\5 x 5 seven segment samson.exe.config
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\bin\Debug\5 x 5 seven segment samson.exe
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\bin\Debug\5 x 5 seven segment samson.pdb
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\bin\Debug\5 x 5 seven segment samson.xml
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\obj\Debug\5 x 5 seven segment samson.vbprojResolveAssemblyReference.cache
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\obj\Debug\_5_x_5_seven_segment_samson.Form1.resources
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\obj\Debug\_5_x_5_seven_segment_samson.Resources.resources
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\obj\Debug\5 x 5 seven segment samson.vbproj.GenerateResource.Cache
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\obj\Debug\5 x 5 seven segment samson.exe
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\obj\Debug\5 x 5 seven segment samson.xml
+c:\users\jerard\documents\visual studio 2015\Projects\5 x 5 seven segment samson\5 x 5 seven segment samson\obj\Debug\5 x 5 seven segment samson.pdb
